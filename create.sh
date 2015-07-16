@@ -1,0 +1,1 @@
+mysql -v -h cs445sql --user=mdludwig --password=EL104mdl FLP < sql/create_tables.sql

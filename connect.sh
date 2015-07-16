@@ -1,0 +1,1 @@
+mysql -h cs445sql --user=mdludwig --password=EL104mdl FLP

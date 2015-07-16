@@ -1,0 +1,16 @@
+drop table if exists
+     ratings,
+     movies_genres,
+     movies_producers,
+     movies_directors,
+     movies_actors,
+     activities,
+     friends,
+     movies,
+     producers,
+     directors,
+     actors,
+     users,
+     mpaa_ratings,
+     genres,
+     people

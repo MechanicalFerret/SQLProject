@@ -1,0 +1,1 @@
+mysql -v -h cs445sql --user=mdludwig --password=EL104mdl FLP < sql/drop_tmp_tables.sql
